@@ -1,4 +1,4 @@
-# Innovathon-2019
+# Innovathon 2019
 
 During this event we realzed a car able to do a lap in a circuit builded for the event.
 
